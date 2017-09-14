@@ -1,9 +1,12 @@
-# React Native Toast (remobile)
+This project is a fork of https://github.com/remobile/react-native-toast 
+
+# React Native Toast (Halfz)
 A android like toast for react-native support for ios and android
+
 
 ## Installation
 ```sh
-npm install @remobile/react-native-toast --save
+npm install Halfz/react-native-toast --save
 ```
 
 ### Installation (iOS)
@@ -15,7 +18,7 @@ npm install @remobile/react-native-toast --save
 ```gradle
 ...
 include ':react-native-toast'
-project(':react-native-toast').projectDir = new File(settingsDir, '../node_modules/@remobile/react-native-toast/android')
+project(':react-native-toast').projectDir = new File(settingsDir, '../node_modules/@halfz/react-native-toast/android')
 ```
 
 * In `android/app/build.gradle`
@@ -107,10 +110,10 @@ var styles = StyleSheet.create({
 ```
 
 ### HELP
-* look https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin
-
+* Look https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin
 
 ### thanks
+* Original project is here: https://github.com/remobile/react-native-toast
 * this project come from https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin
 
 ### see detail use

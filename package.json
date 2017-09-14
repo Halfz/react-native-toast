@@ -1,11 +1,11 @@
 {
-    "name": "@remobile/react-native-toast",
-    "version": "1.0.6",
+    "name": "@halfz/react-native-toast",
+    "version": "1.0.6-HALFZ",
     "description": "A android like toast for react-native support for ios and android",
     "main": "index.js",
     "author": {
-        "name": "YunJiang.Fang",
-        "email": "42550564@qq.com"
+        "name": "Mark Lee",
+        "email": "mark@halfz.me"
     },
     "license": "MIT",
     "keywords": [
@@ -15,15 +15,15 @@
         "android",
         "toast",
         "position",
-        "remobile",
+        "halfz",
         "mobile"
     ],
-    "homepage": "https://github.com/remobile/react-native-toast",
+    "homepage": "https://github.com/Halfz/react-native-toast",
     "bugs": {
-        "url": "https://github.com/remobile/react-native-toast/issues"
+        "url": "https://github.com/Halfz/react-native-toast/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/remobile/react-native-toast.git"
+        "url": "git://github.com/Halfz/react-native-toast.git"
     }
 }
